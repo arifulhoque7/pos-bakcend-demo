@@ -11,8 +11,8 @@ Follow these steps to set up the project and prepare the database:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/arifulhoque7/pos-bakcend-demo.git
+cd pos-bakcend-demo
 ```
 
 ### 2. Install Dependencies
